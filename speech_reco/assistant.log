@@ -1,0 +1,5 @@
+INFO:root:Launched: vscode
+INFO:root:Launched: https://github.com
+ERROR:root:Launch failed: chrome - [Errno 2] No such file or directory: 'chrome'
+WARNING:root:Failed: chrome
+INFO:root:Success rate: 2/3
