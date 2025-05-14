@@ -1,0 +1,48 @@
+{
+  "flask-project": {
+    "aliases" : ["flask" , "flask-app" , "flask-project"],
+       "folders": [
+          "app",
+          "config",
+          "static",
+          "templates"
+      ],
+      "files": {
+          "app/__init__.py": "flask-init",
+          "app/routes.py": "flask-routes",
+          "config/settings.py": "flask-settings",
+          "run.py": "flask-run"
+      }
+  },
+  "django-project": {
+    "aliases": ["django", "python fullstack"] ,
+      "folders": [
+          "main_app",
+          "main_app/migrations",
+          "static",
+          "templates",
+          "config"
+      ],
+      "files": {
+          "manage.py": "django-manage",
+          "main_app/__init__.py": "django-init",
+          "main_app/views.py": "django-views",
+          "main_app/models.py": "django-models",
+          "main_app/urls.py": "django-urls"
+      }
+  },
+  "fastapi-project": {
+    "aliases": ["fast api", "fastapi", "fastapi-project"],
+      "folders": [
+          "app",
+          "app/routes",
+          "app/models",
+          "config"
+      ],
+      "files": {
+          "main.py": "fastapi-main",
+          "app/routes/user.py": "fastapi-user-routes",
+          "app/models/user.py": "fastapi-user-model"
+      }
+  }
+}
