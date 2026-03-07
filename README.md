@@ -20,10 +20,10 @@ diva/
 ├── googleterminal.py             # Google search via SerpAPI — ranked results, open in browser
 ├── quantum_creativity_engine.py  # Quantum-seeded creative idea generator using Qiskit + GPT-4
 │
-├── zeno_gesture_tracker.py       # Hand gesture tracker — pinch (Tab), swipe (scroll) via MediaPipe
+├── diva_gesture_tracker.py       # Hand gesture tracker — pinch (Tab), swipe (scroll) via MediaPipe
 ├── presentation_gesture.py       # Presentation mode gesture control — right swipe → next slide
 │
-├── zeno_github_uploader.py       # GitHub manager — upload, list, access, delete, commit, merge branches
+├── diva_github_uploader.py       # GitHub manager — upload, list, access, delete, commit, merge branches
 ├── terminal_error_logger.py      # Run Python files, catch errors, explain with Gemini, log to Notion
 │
 ├── working_day/
