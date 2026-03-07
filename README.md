@@ -1,1 +1,1 @@
-# dev-assistant
+# software engineering assistant
