@@ -149,7 +149,7 @@ Run any Python script through Diva and it will:
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/diva.git
+git clone https://github.com/jenenhasan/diva.git
 cd diva
 pip install -r requirements.txt
 ```
